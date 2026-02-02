@@ -24,13 +24,17 @@ I considered the level of detail that needed to be shown, and overall easy-to-in
 My visualization is reproducible thanks to the Ontario open data website, and time dated-access codes. There are no stochastic processes in my workflow.
     
 > How did you ensure that your data visualization is accessible?
+
 During the process, I made sure to keep the colors high-contrast, and used https://pilestone.com/pages/color-blindness-simulator to see if colors were still discernable with certain types of color blindness. I also added alt text in the description in this markdown file. In general text is kept large and simple.
     
 > Who are the individuals and communities who might be impacted by your visualization?
+
 Policy-makers, hunters, other people who are interested in policy impacts on data collection (such as other provinces).
     
 > How did you choose which features of your chosen dataset to include or exclude from your visualization?
+
 I set out with a simple goal of visualizing wild turkey harvesting reports over time, so it was easy to subset the data to the appropriate axes.
     
 > What ‘underwater labour’ contributed to your final data visualization product?
+
 Lots! Exploring the data, cleaning it up, using some 'hacks' to make it look the way I wanted to (e.g. plotting the line and markers separately). Understanding what changes were reflected in the change in data, interpreting WMUs, different approaches of what looked good and not... the list goes on!
